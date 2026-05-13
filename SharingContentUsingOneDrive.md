@@ -4,8 +4,6 @@ A&S Teaching & Learning [teachinglearning.artsci@utoronto.ca](mailto:teachinglea
 
 You can share content and limit access to UofT users using OneDrive. The links are accessible via UTORid authentication, and the content cannot be searched for. The links can be granted read-only or ‘edit’ access, and the same folder can have multiple links giving different permissions - for example a read-only link for students, and an edit link for TAs.
 
-
-
 ## To Share a Folder:
 
 1.	Navigate to https://utoronto-my.sharepoint.com/ to access your OneDrive
@@ -45,5 +43,5 @@ Under the "Links" tab in Manage Access, you can review, edit or delete the permi
 
 <div align="center"><img src="image-22.png" width="50%"></div>
 
-#### Info
+## Info
 Contact [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca) for additional help.

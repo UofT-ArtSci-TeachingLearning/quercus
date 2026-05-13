@@ -36,20 +36,20 @@ Low to medium volume submissions in a small to medium course where you want to a
 
 6.	You will be asked to provide a description of what you would like students to upload; and then prompted to either email the request directly or to copy the link and distribute it. We recommend that you copy the link and distribute it via email.
 
-### What students will see:
+## What students will see:
 
 ![Student prompt to upload a file](image-6.png)
 
-### To stop accepting files:
+## To stop accepting files:
 
 1.	In OneDrive, select the file request folder and click the ‘…’ icon.
 2.	Select Manage Access.
 3.	You will see the link you have created under “Links Giving Access”
 4.	Click the ‘…’ next to the link and delete it with the ‘x’
 
-#### Additional Notes:
+## Additional Notes:
 
-For more information, see Microsoft’s documentation regarding file requests.
+For more information, see [Microsoft’s documentation](https://support.microsoft.com/en-us/office/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af) regarding file requests.
 
-#### Info
+## Info
 Contact teachinglearning.artsci@utoronto.ca for additional help.

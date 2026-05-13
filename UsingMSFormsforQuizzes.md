@@ -1,12 +1,12 @@
 # Using MS Forms for Quizzes
 
-A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
+A&S Teaching & Learning [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca).
 
 [Microsoft Forms](https://forms.cloud.microsoft) includes quizzing capability. It is not as extensive as the quiz tools in Quercus, but it offers multiple choice, text-entry, file upload, ranking question types. You can also embed images or video in question prompts. There is a 'by-quiz' or 'by-question' grading interface and all results can be viewed in a live spreadsheet or exported.
 
 > **Note:** you can use [MS Forms to accept files](https://support.microsoft.com/en-us/office/add-questions-that-allow-for-file-uploads-in-microsoft-forms-6a75a658-c02b-450e-b119-d068f3cba4cf) from students in lieu of Quercus' assignment function - just set up a single question quiz with a "File upload" question; all submissions will have student names (derived from their actual M365 accounts) appended to the uploaded files in your OneDrive folder. You can find uploaded files from quizzes in your OneDrive in the **Apps -> Microsoft Forms -> [Quiz Name] subfolder**.
 
-### Relevant Features
+## Relevant Features
 1. **Question Types:**
     * Multiple Choice and Multiple Answer
     * Text Entry
@@ -25,7 +25,7 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
     * you can add comments for feedback though we don't recommend committing to this temporary quizzing platform, any comments you add can be exported
     * you can grade by-question or by-quiz
 
-### Creating a Quiz
+## Creating a Quiz
 
 Creating quizzes in Forms is intuitive and familiar coming from Quercus. Create a new quiz and add questions, your progress is auto-saved.
 
@@ -33,18 +33,18 @@ Creating quizzes in Forms is intuitive and familiar coming from Quercus. Create 
 
 Hovering over the questions allows dragging and dropping to re-order them. You can use sections to split your quiz into pages.
 
-#### Quiz Settings
+### Quiz Settings
 
 Click **Settings** at the top of the interface
 <div align="center"><img src="image-8.png" alt="MS Forms Settings" width="25%"></div>
 
 The key to a successful quiz on Forms is to configure the settings to mimic Quercus' defaults. 
 
-#### Limiting respondents to U of T users and one response only
+### Limiting respondents to U of T users and one response only
 
 <div align="center"><img src="image-7.png" alt="Who can fill out this forms settings pane in MS Forms" width="45%"></div>
 
-#### Response Settings
+### Response Settings
 
 Unchecking **Accept responses** allows you to close the quiz manually. If the timer elapses, in-progress responses are auto-submitted. We also allow students to save their responses for their review.
 
@@ -54,7 +54,7 @@ Unchecking **Accept responses** allows you to close the quiz manually. If the ti
 
 > [Read more about quiz settings from Microsoft](https://support.microsoft.com/en-us/office/adjust-your-form-or-quiz-settings-in-microsoft-forms-f255a4ba-e03c-4e12-b880-f7e8b62e0665#bkmk_quizonlysettings)
 
-### Distribution
+## Distribution
 
 To distribute a quiz, click **Collect Responses** at the top of the interface.
 <div align="center"><img src="image-25.png" alt="Collect Responses button in MS Forms" width="25%"></div>
@@ -74,7 +74,7 @@ You can also generate a QR code for the URL and download it if you'd like to run
     * There **is** a feature to limit access to only named individuals, but the interface does not accept a list of student emails so we've found this to be impractical
 * Do not use the built-in email tool to distribute your quiz - use [a BCC email](https://support.microsoft.com/en-us/office/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows-04304e27-63a2-4276-8884-5077fba0e229) instead - the built-in tool will expose email addresses to all recipients
 
-### Grading
+## Grading
 
 Access the grading interface via **View Responses**
 
@@ -90,8 +90,8 @@ You can choose between by-quiz and by-question grading by toggling between **Peo
 
 <div align="center"><img src ="image-14.png" alt="View responses button in MS Forms" width="100%"></div>
 
-### Importing grades to Quercus
+## Importing grades to Quercus
 There is no automated connection to get grades back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this). You can import grades using a [gradebook export/import process](https://q.utoronto.ca/courses/242937/pages/using-the-gradebook#importing-and-exporting-the-gradebook) in Quercus.
 
-### More Information and Support
+## More Information and Support
 Contact [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca) for additional help.

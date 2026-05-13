@@ -4,7 +4,7 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
 
 [Microsoft Forms](https://forms.cloud.microsoft) includes quizzing capability. It is not as extensive as the quiz tools in Quercus, but it offers multiple choice, text-entry, file upload, ranking question types. You can also embed images or video in question prompts. There is a 'by-quiz' or 'by-question' grading interface and all results can be viewed in a live spreadsheet or exported.
 
-> **Note:** you can use [MS Forms to accept files](https://support.microsoft.com/en-us/office/add-questions-that-allow-for-file-uploads-in-microsoft-forms-6a75a658-c02b-450e-b119-d068f3cba4cf) from students in lieu of Quercus' assignment function - just set up a single question quiz with a "File upload" question; all submissions will have student names (derived from their actual M365 accounts) appended to the uploaded files in your OneDrive folder. You can find uploaded files from quizzes in your OneDrive in the **Apps -> Microsoft Forms [Quiz Name] subfolder**.
+> **Note:** you can use [MS Forms to accept files](https://support.microsoft.com/en-us/office/add-questions-that-allow-for-file-uploads-in-microsoft-forms-6a75a658-c02b-450e-b119-d068f3cba4cf) from students in lieu of Quercus' assignment function - just set up a single question quiz with a "File upload" question; all submissions will have student names (derived from their actual M365 accounts) appended to the uploaded files in your OneDrive folder. You can find uploaded files from quizzes in your OneDrive in the **Apps -> Microsoft Forms -> [Quiz Name] subfolder**.
 
 ### Relevant Features
 1. **Question Types:**
@@ -12,11 +12,11 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
     * Text Entry
     * Ranking
     * **File Upload**
-        * Uploaded files are found in 'Your OneDrive/Apps/Microsoft Forms/'
+        * Uploaded files are found in 'Your OneDrive/Apps/Microsoft Forms/[Form/Quiz Name]/[Question Title]'
         * Student's names are appended to submitted files names
 2. Ability to shuffle questions
 2. Practice and 'reveal answers immediately' features for formative quizzing
-3. Start date, End date and Set time duration features
+3. **Start date, End date and Set time** duration features
     * The equivalent of 'Available From', 'Available Until', 'Time Limit' in Quercus
 4. Allows respondents to save their submissions
 5. Optional email notifications of submissions
@@ -29,28 +29,28 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
 
 Creating quizzes in Forms is intuitive and familiar coming from Quercus. Create a new quiz and add questions, your progress is auto-saved.
 
-<div align="center"><img src="image-9.png" alt="New Quiz button in MS Forms" width="15%"></div>
+<div align="center"><img src="image-9.png" alt="New Quiz button in MS Forms" width="25%"></div>
 
 Hovering over the questions allows dragging and dropping to re-order them. You can use sections to split your quiz into pages.
 
 #### Quiz Settings
 
-Click settings at the top of the interface
-<div align="center"><img src="image-8.png" alt="MS Forms Settings" width="15%"></div>
+Click **Settings** at the top of the interface
+<div align="center"><img src="image-8.png" alt="MS Forms Settings" width="25%"></div>
 
-The key to successful quiz on Forms is to configure the settings to mimic Quercus' defaults. 
+The key to a successful quiz on Forms is to configure the settings to mimic Quercus' defaults. 
 
 #### Limiting respondents to U of T users and one response only
 
-<div align="center"><img src="image-7.png" alt="Who can fill out this forms settings pane in MS Forms" width="33%"></div>
+<div align="center"><img src="image-7.png" alt="Who can fill out this forms settings pane in MS Forms" width="45%"></div>
 
 #### Response Settings
 
-Unchecking "Accept responses" allows you to close the quiz manually. If the timer elapses, in-progress responses are auto-submitted. We also allow students to save their responses for their review.
+Unchecking **Accept responses** allows you to close the quiz manually. If the timer elapses, in-progress responses are auto-submitted. We also allow students to save their responses for their review.
 
-<div align="center"><img src="image-10.png" alt="Only people in University of Toronto can respond" width="33%"></div>
+<div align="center"><img src="image-10.png" alt="Only people in University of Toronto can respond" width="45%"></div>
 
-<div align="center"><img src="image-11.png" alt="Options for responses settings pane in MS Forms" width="33%"></div>
+<div align="center"><img src="image-11.png" alt="Options for responses settings pane in MS Forms" width="45%"></div>
 
 > [Read more about quiz settings from Microsoft](https://support.microsoft.com/en-us/office/adjust-your-form-or-quiz-settings-in-microsoft-forms-f255a4ba-e03c-4e12-b880-f7e8b62e0665#bkmk_quizonlysettings)
 
@@ -76,17 +76,17 @@ You can also generate a QR code for the URL and download it if you'd like to run
 
 ### Grading
 
-Access the grading interface via 'View Responses'
+Access the grading interface via **View Responses**
 
-<div align="center"><img src ="image-13.png" alt="View responses button in MS FOrms" width="15%"></div>
+<div align="center"><img src ="image-13.png" alt="View responses button in MS FOrms" width="25%"></div>
 
-..then click 'Review answers'
+..then click **Review answers**.
 Alternatively, you can view all the responses on the linked spreadsheet.
 The post scores option reveals your feedback as well as the grades to students. This is optional as the linked spreadsheet will contains the score for students. 
 
-<div align="center"><img src ="image-15.png" alt="Grading in " width="33%"></div>
+<div align="center"><img src ="image-15.png" alt="Grading in " width="45%"></div>
 
-You can choose between by-quiz and by-question grading by toggling between 'People' and 'Questions'
+You can choose between by-quiz and by-question grading by toggling between **People** and **Questions**
 
 <div align="center"><img src ="image-14.png" alt="View responses button in MS Forms" width="100%"></div>
 
